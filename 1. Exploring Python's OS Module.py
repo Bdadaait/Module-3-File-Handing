@@ -34,3 +34,5 @@ if __name__ == "__main__":
     path = input("Enter the directory path: ") 
 
     list_directory_contents(path)
+
+    
